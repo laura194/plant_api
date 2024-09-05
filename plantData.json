@@ -1,0 +1,36 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": "Monstera",
+      "scientific_name": "Monstera deliciosa",
+      "water_requirements": "Moderate",
+      "light_requirements": "Indirect bright light",
+      "description": "Monstera is a popular tropical plant known for its large, split leaves."
+    },
+    {
+      "id": 2,
+      "name": "Snake Plant",
+      "scientific_name": "Sansevieria trifasciata",
+      "water_requirements": "Low",
+      "light_requirements": "Low to moderate light",
+      "description": "The Snake Plant is a hardy, low-maintenance plant that can tolerate neglect."
+    },
+    {
+      "id": 3,
+      "name": "Spider Plant",
+      "scientific_name": "Chlorophytum comosum",
+      "water_requirements": "Moderate",
+      "light_requirements": "Indirect light",
+      "description": "Spider plants are easy to care for and are known for their air-purifying qualities."
+    },
+    {
+      "id": 4,
+      "name": "Peace Lily",
+      "scientific_name": "Spathiphyllum",
+      "water_requirements": "Moderate to high",
+      "light_requirements": "Low to moderate light",
+      "description": "Peace Lilies are elegant plants with white flowers and thrive in low light environments."
+    }
+  ]
+}
