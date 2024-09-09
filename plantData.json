@@ -1,75 +1,255 @@
 [
   {
-    "name": "Aloe vera",
-    "scientifical_name": "Aloe vera",
-    "type": "Cacti_Succulents",
-    "light": "Partial Sun",
+    "name": "Aloe Vera",
+    "scientifical_name": "Aloe barbadensis miller",
+    "difficulty": "Easy",
+    "group": "Succulents",
+    "light": "Indirect sunlight",
     "water": "Low",
-    "difficulty": "Medium",
-    "img_url": "https://media.istockphoto.com/id/958732238/photo/closeup-shot-of-tropical-green-leaves-plants.jpg?s=2048x2048&w=is&k=20&c=hw8NoyERWpMBXYuM2NDSx5nyqFQ9ueaLPyb7wLBWT4U="
+    "image_url": "https://media.istockphoto.com/id/958732238/photo/closeup-shot-of-tropical-green-leaves-plants.webp?s=2048x2048&w=is&k=20&c=hw8NoyERWpMBXYuM2NDSx5nyqFQ9ueaLPyb7wLBWT4U="
   },
   {
-    "name": "Jade plant",
-    "scientifical_name": "Crassula ovata",
-    "type": "Cacti_Succulents",
-    "light": "Partial Sun",
-    "water": "Low",
+    "name": "Monstera",
+    "scientifical_name": "Monstera deliciosa",
     "difficulty": "Medium",
-    "img_url": "https://media.istockphoto.com/id/1371375030/photo/crassula-ovata-known-as-lucky-plant-or-money-tree-in-a-white-pot-in-front-of-a-window-on-a.webp?s=2048x2048&w=is&k=20&c=nPuXisYKU6byz-lx3MGXty80xoxvuMohBmKfCAtaf28="
+    "group": "Tropical Plants",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1448106563/photo/houseplant-monstera.webp?s=2048x2048&w=is&k=20&c=-NXsL3tV6Y7Y-_GvknDim6lpTrQiJTY6-1p2irWpsb4="
   },
   {
-    "name": "Florist kalanchoe",
-    "scientifical_name": "Kalanchoe blossfeldiana",
-    "type": "Cacti_Succulents",
-    "light": "Partial Sun",
-    "water": "Low",
-    "difficulty": "Medium",
-    "img_url": "https://media.istockphoto.com/id/1203721086/photo/kalanchoe-blossfeldiana-is-a-succulent-plant-with-red-flowers-it-grows-wild-in-madagascar-a.webp?s=2048x2048&w=is&k=20&c=GIVxFH1U9JIz5DKzVZ9OR8fisRZA35lqzV0QKnMVZYs="
+    "name": "Devil's Ivy (Pothos)",
+    "scientifical_name": "Epipremnum aureum",
+    "difficulty": "Easy",
+    "group": "Climbing Plants",
+    "light": "Partial shade",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1904601676/photo/epipremnum-aureum-is-a-species-of-flowering-plant-in-the-arum-family-aracear-the-plant-has-a.jpg?s=2048x2048&w=is&k=20&c=cR7oiMWufT7q5deLK-UMFC9TBqi3uhkFot32T_aFIuc="
   },
   {
-    "name": "Thanksgiving cactus",
-    "scientifical_name": "Schlumbergera truncata",
-    "type": "Cacti_Succulents",
-    "light": "Partial Sun",
+    "name": "Snake Plant",
+    "scientifical_name": "Sansevieria trifasciata",
+    "difficulty": "Easy",
+    "group": "Succulents",
+    "light": "Indirect sunlight",
     "water": "Low",
-    "difficulty": "Medium",
-    "img_url": "https://media.istockphoto.com/id/485728316/photo/schlumbergera-flower.webp?s=2048x2048&w=is&k=20&c=RKgLWGakiDHliFqhNzuc3jiNxYyfwg47S-jCxOrkAgQ="
+    "image_url": "https://media.istockphoto.com/id/1336498787/photo/sansevieria-plant-in-a-modern-pot-on-a-white-table-against-a-beige-wall-home-plant.webp?s=2048x2048&w=is&k=20&c=eySEkxs3_H6SIAVVw51QGR6xjocfQxtxerUjqzbKKT0="
   },
   {
-    "name": "Ghost plant",
-    "scientifical_name": "Graptopetalium paraguayense",
-    "type": "Cacti_Succulents",
-    "light": "Partial Sun",
-    "water": "Low",
-    "difficulty": "Medium",
-    "img_url": "https://media.istockphoto.com/id/1147776160/photo/graptopetalum-paraguayense.jpg?s=2048x2048&w=is&k=20&c=4KpJ5YNQGkFzNc2Z7TYbK68YbvUtyIP7Xlzb1tdaCBU="
+    "name": "Peace Lily",
+    "scientifical_name": "Spathiphyllum wallisii",
+    "difficulty": "Easy",
+    "group": "Flowering Plants",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/809334612/photo/spatialism.webp?s=2048x2048&w=is&k=20&c=wSpxfxIBVWmTUjWcUJYj_XHWMO4EmYDMiegWAR1BEZE="
   },
   {
-    "name": "Mother of thousands",
-    "scientifical_name": "Kalanchoe daigremontiana",
-    "type": "Cacti_Succulents",
-    "light": "Full Sun",
-    "water": "Low",
+    "name": "Rubber Plant",
+    "scientifical_name": "Ficus elastica",
     "difficulty": "Medium",
-    "img_url": "https://media.istockphoto.com/id/1482126394/photo/kalanchoe-daigremontiana-mother-of-thousands-alligator-plant-is-a-succulent-plant-native-to.jpg?s=2048x2048&w=is&k=20&c=tl7fFwU7U-GtQDPdbUb_UNLxjEjBxVef9NG7Y7_cAmM="
+    "group": "Trees",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1400388562/photo/a-rubber-tree-houseplant-on-black-background.webp?s=2048x2048&w=is&k=20&c=joBeYF0_kQ0y_muLQtMUVgBPUtgRt7vVfwickAmzHS8="
   },
   {
-    "name": "Tree aeonium",
-    "scientifical_name": "Aeonium arboreum",
-    "type": "Cacti_Succulents",
-    "light": "Partial Sun",
-    "water": "Low",
-    "difficulty": "Medium",
-    "img_url": "https://pixabay.com/get/g16d164322ca686ce8c6a6e3f988b9d73ecfc3d066c0e30580f7f69c4be944a30a8632fb13b95662f236f789876bd91b8a460bd5d59b7369a5bfdfc1b206f898d_1280.jpg"
+    "name": "Dragon Tree",
+    "scientifical_name": "Dracaena marginata",
+    "difficulty": "Easy",
+    "group": "Trees",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/578805324/photo/dracaena-leaves-with-white-background.webp?s=2048x2048&w=is&k=20&c=u4Br9X-3Ez6E6G0ZKZ6QqhpVg2j0yNhuHp-UsEAWsfw="
   },
   {
-    "name": "Elephant bush",
-    "scientifical_name": "",
-    "type": "Cacti_Succulents",
-    "light": "Partial Sun",
+    "name": "Philodendron",
+    "scientifical_name": "Philodendron hederaceum",
+    "difficulty": "Easy",
+    "group": "Climbing Plants",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/2160150163/photo/philodendron-hederaceum-brasil.webp?s=2048x2048&w=is&k=20&c=AbNuGZvgGb4_Cw-3Xbotc4_CCbm47TnTy0DjMFWMttc="
+  },
+  {
+    "name": "Mother-in-Law's Tongue",
+    "scientifical_name": "Sansevieria cylindrica",
+    "difficulty": "Easy",
+    "group": "Succulents",
+    "light": "Indirect sunlight",
     "water": "Low",
+    "image_url": "https://media.istockphoto.com/id/1280373417/photo/green-sansevieria-cylindrica-in-pot.jpg?s=612x612&w=0&k=20&c=S-zHjm3zHIRjyYbP7296gr16nRC_cvZrWLMBi4nh0wg="
+  },
+  {
+    "name": "Lucky Bamboo",
+    "scientifical_name": "Dracaena sanderiana",
+    "difficulty": "Easy",
+    "group": "Bamboo Plants",
+    "light": "Partial shade",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1493061698/photo/lucky-bamboo-plant-for-sale.jpg?s=612x612&w=0&k=20&c=_cG7X8cqihM1Cp8OCygxaOxuqLQcGrkpiH8Nt5bCbx4="
+  },
+  {
+    "name": "Calathea",
+    "scientifical_name": "Calathea orbifolia",
+    "difficulty": "Difficult",
+    "group": "Tropical Plants",
+    "light": "Indirect sunlight",
+    "water": "High",
+    "image_url": "https://media.istockphoto.com/id/1213639871/photo/calathea-orbifolia-close-up.jpg?s=612x612&w=0&k=20&c=Eu3Z2XJe73LAssfwKtcr6OAfUxie3JRhB1TqbwhnYhM="
+  },
+  {
+    "name": "Weeping Fig",
+    "scientifical_name": "Ficus benjamina",
     "difficulty": "Medium",
-    "img_url": "https://media.istockphoto.com/id/1761252572/de/foto/aeonium-baum-aeonium-arboreum-kanarische-inseln-fuerteventura-spanien.jpg?s=2048x2048&w=is&k=20&c=49JmWUvC5k8bcg_KgpTFcjC4VfDqbsISFi6KZmURPBo="
+    "group": "Trees",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1312924040/photo/ficus-benjamin-in-a-straw-basket.jpg?s=612x612&w=0&k=20&c=FwNYH8l51WnA4gXZuQBwR_tFQ1MzkErLzCDoxOF8C08="
+  },
+  {
+    "name": "ZZ Plant",
+    "scientifical_name": "Zamioculcas zamiifolia",
+    "difficulty": "Easy",
+    "group": "Succulents",
+    "light": "Indirect sunlight",
+    "water": "Low",
+    "image_url": "https://media.istockphoto.com/id/1796534917/photo/zanzibar-gem-plant-in-pot-over-white-brick-wall.jpg?s=612x612&w=0&k=20&c=8Svk0yxA6n5FM1Kpzip4W915D_TbobV6NsypCiAKjOA="
+  },
+  {
+    "name": "Air Plant",
+    "scientifical_name": "Tillandsia spp.",
+    "difficulty": "Easy",
+    "group": "Air Plants",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1311215591/photo/tilandsia-xerographica-airplant-in-glass-terrarium-on-wooden-table.jpg?s=612x612&w=0&k=20&c=x0VUTF9Fp5OA2YmWrtkKv0i8KYrUrdj5qOIPALbEEJ4="
+  },
+  {
+    "name": "Umbrella Tree",
+    "scientifical_name": "Schefflera arboricola",
+    "difficulty": "Medium",
+    "group": "Trees",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/2154469760/photo/schefflera-arboricola.jpg?s=612x612&w=0&k=20&c=Dps4ZhZYsKhBE9gBpP2yIHpgTgoittf8X7m711ts-k0="
+  },
+  {
+    "name": "Cacti",
+    "scientifical_name": "Cactaceae",
+    "difficulty": "Easy",
+    "group": "Succulents",
+    "light": "Direct sunlight",
+    "water": "Low",
+    "image_url": "https://media.istockphoto.com/id/1923414067/photo/miniature-succulent-plants.jpg?s=612x612&w=0&k=20&c=42z3N7_m82Am6iX_0YWF8euKFrd1-sMmETKt_1BxJlg="
+  },
+  {
+    "name": "Chinese Money Plant",
+    "scientifical_name": "Pilea peperomioides",
+    "difficulty": "Easy",
+    "group": "Succulents",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/2149047627/photo/pilea-peperomioides-in-terracotta-pot-known-as-chinese-money-plant-on-windowsill-at-home.jpg?s=612x612&w=0&k=20&c=gHdLD75ZB2uZ8vRpbnpbc2c4rYNTpC4sEgHj0z5m6W8="
+  },
+  {
+    "name": "Boston Fern",
+    "scientifical_name": "Nephrolepis exaltata",
+    "difficulty": "Medium",
+    "group": "Ferns",
+    "light": "Indirect sunlight",
+    "water": "High",
+    "image_url": "https://media.istockphoto.com/id/2166042817/photo/boston-fern-growing-in-pot-beautiful-fresh-green-fern-basket-hanging-on-white-wooden-wall.jpg?s=612x612&w=0&k=20&c=aAzsFFHBAY_pDugdKHc1Zh3bRIFIoUZm4ky6yusowNo="
+  },
+  {
+    "name": "Bonsai",
+    "scientifical_name": "Ficus retusa",
+    "difficulty": "Difficult",
+    "group": "Trees",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/599497284/photo/bonsai-ginseng-or-ficus-retusa.jpg?s=612x612&w=0&k=20&c=buZ5oq6dne_jyEdA7FIi7qGnH5oPlUHwmS44A9Gj6Ko="
+  },
+  {
+    "name": "Gloxinia",
+    "scientifical_name": "Sinningia speciosa",
+    "difficulty": "Medium",
+    "group": "Flowering Plants",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1277658819/photo/closeup-of-gloxinia-sinningia-speciosa-flowers-in-the-foreground-and-dark-green-leaves-plants.jpg?s=612x612&w=0&k=20&c=czKLZi_EAnQOPP4MOY8HO01gEK_z_c_Mqcv1-sSBVYo="
+  },
+  {
+    "name": "Anthurium",
+    "scientifical_name": "Anthurium andraeanum",
+    "difficulty": "Medium",
+    "group": "Flowering Plants",
+    "light": "Indirect sunlight",
+    "water": "High",
+    "image_url": "https://media.istockphoto.com/id/1359117982/photo/house-plant-anthurium-in-white-flowerpot-isolated-on-white-table-and-gray-background.jpg?s=612x612&w=0&k=20&c=SC5HJ_kJFe0BrBPVAica6365McSLSXk5ehEvWYAWaLU="
+  },
+  {
+    "name": "Zebra Plant",
+    "scientifical_name": "Aphelandra squarrosa",
+    "difficulty": "Difficult",
+    "group": "Tropical Plants",
+    "light": "Indirect sunlight",
+    "water": "High",
+    "image_url": "https://media.istockphoto.com/id/1786283058/photo/squarrosa-aphelandra-in-small-brown-flower-pots-on-the-shelf-of-the-showcase-in-greenhouses.jpg?s=612x612&w=0&k=20&c=MgIISx65sSv1z04uGGcmtxXkTLVgV9OXb7AFMaLMsPk="
+  },
+  {
+    "name": "Club Moss",
+    "scientifical_name": "Selaginella",
+    "difficulty": "Difficult",
+    "group": "Moss-like Plants",
+    "light": "Indirect sunlight",
+    "water": "High",
+    "image_url": "https://media.istockphoto.com/id/2166128251/photo/selaginella-wallichii-hook-and-grev-spring-or-selaginellaceae-spike-moss-or-fern.jpg?s=612x612&w=0&k=20&c=5LOzC9F83AGYFhwZEZO5VZA5egVbbPTpWyWBKfa4nXU="
+  },
+  {
+    "name": "Ponytail Palm",
+    "scientifical_name": "Beaucarnea recurvata",
+    "difficulty": "Easy",
+    "group": "Succulents",
+    "light": "Direct sunlight",
+    "water": "Low",
+    "image_url": "https://media.istockphoto.com/id/841292392/photo/green-houseplant-in-white-vase.jpg?s=612x612&w=0&k=20&c=RQgHQCh3LL_-BlhxK6SQfb19lWIeZ6q7otw2aEz1xuU="
+  },
+  {
+    "name": "Christmas Cactus",
+    "scientifical_name": "Schlumbergera",
+    "difficulty": "Easy",
+    "group": "Succulents",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/511790642/photo/christmas-cactus.jpg?s=612x612&w=0&k=20&c=f-aX77hO6xwE0qVn1JgN80lc9pPRdvDlHy1oGSa1PfA="
+  },
+  {
+    "name": "Yucca",
+    "scientifical_name": "Yucca elephantipes",
+    "difficulty": "Easy",
+    "group": "Palms",
+    "light": "Direct sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1322943616/photo/stick-yucca-or-spinelsss-yucca.jpg?s=612x612&w=0&k=20&c=sb6L4OiFzo_v6r1YpwGx1KMeh9DGUxzKAxDaxoqc_co="
+  },
+  {
+    "name": "Chinese Evergreen",
+    "scientifical_name": "Aglaonema commutatum",
+    "difficulty": "Medium",
+    "group": "Tropical Plants",
+    "light": "Low light",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1308559798/photo/tropical-aglaonema-stripes-houseplant-with-long-leaves-with-silver-stripe-pattern.jpg?s=612x612&w=0&k=20&c=aOomwZKb-ogsAiYnJS3uHd9LHt1slqXi6puVVO-ecWA="
+  },
+  {
+    "name": "Croton",
+    "scientifical_name": "Codiaeum variegatum",
+    "difficulty": "Difficult",
+    "group": "Tropical Plants",
+    "light": "Indirect sunlight",
+    "water": "High",
+    "image_url": "https://media.istockphoto.com/id/170035017/photo/petra-croton.jpg?s=612x612&w=0&k=20&c=9-SruPy-vajHQc4ERo-rMWSYiHkGzC_KO9sjUZOojUg="
   }
 ]
 
