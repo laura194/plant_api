@@ -251,5 +251,149 @@
     "water": "High",
     "image_url": "https://media.istockphoto.com/id/170035017/photo/petra-croton.jpg?s=612x612&w=0&k=20&c=9-SruPy-vajHQc4ERo-rMWSYiHkGzC_KO9sjUZOojUg="
   }
+    {
+    "name": "Spider Plant",
+    "scientifical_name": "Chlorophytum comosum",
+    "difficulty": "Easy",
+    "group": "Tropical Plants",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1312441786/de/foto/chlorophytum-comosum-spinne-pflanze.jpg?s=612x612&w=0&k=20&c=hZWYGgtK_TjL1hROlkykjXUzIfnS68ORs5N6QG9usGU="
+  },
+  {
+    "name": "Jade Plant",
+    "scientifical_name": "Crassula ovata",
+    "difficulty": "Easy",
+    "group": "Succulents",
+    "light": "Direct sunlight",
+    "water": "Low",
+    "image_url": "https://media.istockphoto.com/id/1132486042/de/foto/sukkulente-zimmerpflanze-crassula-in-einem-topf-auf-wei%C3%9Fem-hintergrund.jpg?s=612x612&w=0&k=20&c=mGFuI_SKPcFz9WU3056W1Wwa9qJy5Ka12PKMpcaV0PQ="
+  },
+  {
+    "name": "English Ivy",
+    "scientifical_name": "Hedera helix",
+    "difficulty": "Medium",
+    "group": "Climbing Plants",
+    "light": "Partial shade",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/644998798/de/foto/ivy-hedera-helix.jpg?s=612x612&w=0&k=20&c=buoOYhWG4rvwUidnDV4wYwAg5jGKU-AThTCnCl-dShk="
+  },
+  {
+    "name": "Fiddle Leaf Fig",
+    "scientifical_name": "Ficus lyrata",
+    "difficulty": "Medium",
+    "group": "Trees",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1299094421/de/foto/ficus-lirata-im-wickertopf-auf-holztisch.jpg?s=612x612&w=0&k=20&c=YbPoauivP3pGdcTPS1JBQz8hZ4oyGfu9gFrK0fSlNsQ="
+  },
+  {
+    "name": "Prayer Plant",
+    "scientifical_name": "Maranta leuconeura",
+    "difficulty": "Medium",
+    "group": "Tropical Plants",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1494778739/de/foto/tropische-zimmerpflanze-maranta-leuconeura-fascinator.jpg?s=612x612&w=0&k=20&c=a5M96ayEHLdMHVFsnnOahHKNXAdYVjlRdEX0byVMIZA="
+  },
+  {
+    "name": "Boston Fern",
+    "scientifical_name": "Nephrolepis exaltata",
+    "difficulty": "Medium",
+    "group": "Ferns",
+    "light": "Indirect sunlight",
+    "water": "High",
+    "image_url": "https://media.istockphoto.com/id/2150122913/de/foto/closeup-a-large-fern-nephrolepis-hang-on-in-the-garden.jpg?s=612x612&w=0&k=20&c=N8nb-1iDgSl1kYsH7xDa_45jQe7CrEh-XvXujVWYYC4="
+  },
+  {
+    "name": "Bird's Nest Fern",
+    "scientifical_name": "Asplenium nidus",
+    "difficulty": "Medium",
+    "group": "Ferns",
+    "light": "Indirect sunlight",
+    "water": "High",
+    "image_url": "https://media.istockphoto.com/id/892042450/de/foto/zimmerpflanze-asplenium-nidus-in-blumentopf.jpg?s=612x612&w=0&k=20&c=LZ0EavYPhzdTXdq5vuLurTORiJo7A1S2XbF_BgZROtA="
+  },
+  {
+    "name": "Cast Iron Plant",
+    "scientifical_name": "Aspidistra elatior",
+    "difficulty": "Easy",
+    "group": "Tropical Plants",
+    "light": "Low light",
+    "water": "Low",
+    "image_url": "https://media.istockphoto.com/id/1410933894/de/foto/aspidistra-elatior-baran-haran-japanische-pflanze.jpg?s=612x612&w=0&k=20&c=-Z5oP7idCsu-2UIFr6dkm4QJ0Z2PhZfVG1JV6UEyCys="
+  },
+  {
+    "name": "Dumb Cane",
+    "scientifical_name": "Dieffenbachia",
+    "difficulty": "Medium",
+    "group": "Tropical Plants",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1138553566/de/foto/anlagenkonzept-neu-auflegen-dieffenbachia-plant-topf-mit-neuem-boden-in-neuen-modernen-topf.jpg?s=612x612&w=0&k=20&c=OtJsHa9z4scPCNTk8GHRc2av0e0UBfj9wI3SChhZwvw="
+  },
+  {
+    "name": "Purple Shamrock",
+    "scientifical_name": "Oxalis triangularis",
+    "difficulty": "Medium",
+    "group": "Flowering Plants",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1256158971/de/foto/zimmerpflanze-oxalis-mit-zarten-kleinen-rosa-bl%C3%BCten.jpg?s=612x612&w=0&k=20&c=cjRW6CuPJdop_QOxsb-ZtrupD6c6FN4FAgRNGyvzs2s="
+  },
+  {
+    "name": "Swiss Cheese Plant",
+    "scientifical_name": "Monstera adansonii",
+    "difficulty": "Medium",
+    "group": "Tropical Plants",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1350903982/de/foto/monstera-monkey-mask-oder-obliqua-oder-adansonii-steht-auf-einem-wei%C3%9Fen-sockel-auf-hellem.jpg?s=612x612&w=0&k=20&c=Ez2bX6EAq5s2hNJmKszTpfNzSFTwCzW9NaAaqSVot8c="
+  },
+  {
+    "name": "Baby Rubber Plant",
+    "scientifical_name": "Peperomia obtusifolia",
+    "difficulty": "Easy",
+    "group": "Succulents",
+    "light": "Indirect sunlight",
+    "water": "Low",
+    "image_url": "https://media.istockphoto.com/id/1498326976/de/foto/peperomia-obtusifolia-mit-der-f%C3%A4higkeit-die-luft-zu-reinigen-luftreinigungsanlage.jpg?s=612x612&w=0&k=20&c=VeH1Gpz9FPI-P4zXd-L9kkP3un6aI222jXxn17w1cMQ="
+  },
+  {
+    "name": "Burro's Tail",
+    "scientifical_name": "Sedum morganianum",
+    "difficulty": "Easy",
+    "group": "Succulents",
+    "light": "Direct sunlight",
+    "water": "Low",
+    "image_url": "https://media.istockphoto.com/id/1347675374/de/foto/sedum-morganianum-burrito-in-london-england.jpg?s=612x612&w=0&k=20&c=_rOwoMkLtFWf1vzmcD0kitfGBF2dkpu9XO78rK_lCS0="
+  },
+  {
+    "name": "Moth Orchid",
+    "scientifical_name": "Phalaenopsis",
+    "difficulty": "Medium",
+    "group": "Flowering Plants",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1711400215/de/foto/eine-nahaufnahme-einer-rosa-gesprenkelten-phalaenopsis-orchideenpflanze.jpg?s=612x612&w=0&k=20&c=D2NG2drfwmy8qR8THRwlShG11yjsco-NIRnw_HxWeEs="
+  },
+  {
+    "name": "Chinese Fan Palm",
+    "scientifical_name": "Livistona chinensis",
+    "difficulty": "Medium",
+    "group": "Palms",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1414162571/de/foto/livistona-saribus-auch-bekannt-als-taraw-palme-ist-eine-palmenart-die-im-tropischen.jpg?s=612x612&w=0&k=20&c=hz4eS5J6Ppo_-PY0j2gs02cGqlUC18f4_CbPnZnDMZk="
+  },
+  {
+    "name": "Umbrella Plant",
+    "scientifical_name": "Schefflera arboricola",
+    "difficulty": "Easy",
+    "group": "Tropical Plants",
+    "light": "Indirect sunlight",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/2156347186/de/foto/schefflera-arboricola.jpg?s=612x612&w=0&k=20&c=pZtaEt33uOhPkdtsM0IBBz_uI4mQxID7JpJwbc_t_fE="
+  }
 ]
 
