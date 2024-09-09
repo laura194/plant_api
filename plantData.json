@@ -1,36 +1,75 @@
-{
-  "plants": [
-    {
-      "id": 1,
-      "name": "Monstera",
-      "scientific_name": "Monstera deliciosa",
-      "water_requirements": "Moderate",
-      "light_requirements": "Indirect bright light",
-      "description": "Monstera is a popular tropical plant known for its large, split leaves."
-    },
-    {
-      "id": 2,
-      "name": "Snake Plant",
-      "scientific_name": "Sansevieria trifasciata",
-      "water_requirements": "Low",
-      "light_requirements": "Low to moderate light",
-      "description": "The Snake Plant is a hardy, low-maintenance plant that can tolerate neglect."
-    },
-    {
-      "id": 3,
-      "name": "Spider Plant",
-      "scientific_name": "Chlorophytum comosum",
-      "water_requirements": "Moderate",
-      "light_requirements": "Indirect light",
-      "description": "Spider plants are easy to care for and are known for their air-purifying qualities."
-    },
-    {
-      "id": 4,
-      "name": "Peace Lily",
-      "scientific_name": "Spathiphyllum",
-      "water_requirements": "Moderate to high",
-      "light_requirements": "Low to moderate light",
-      "description": "Peace Lilies are elegant plants with white flowers and thrive in low light environments."
-    }
-  ]
-}
+[
+  {
+    "name": "Aloe vera",
+    "scientifical_name": "Aloe vera",
+    "type": "Cacti_Succulents",
+    "light": "Partial Sun",
+    "water": "Low",
+    "difficulty": "Medium",
+    "img_url": "https://pixabay.com/get/g084caa38908ad09236447f634ef2eda26128c0e965fb08cfbf4281e68cb1b6ce2884b465d195e3b04ad7c30d8d9c2eb33d5112fd46d656313f718db3d2260138_1280.jpg"
+  },
+  {
+    "name": "Jade plant",
+    "scientifical_name": "Crassula ovata",
+    "type": "Cacti_Succulents",
+    "light": "Partial Sun",
+    "water": "Low",
+    "difficulty": "Medium",
+    "img_url": "https://pixabay.com/get/g3bbb577ceaaf36a448792a699b3b472b890c7b7176463bc5909e141a473f1c89f2f8f634a3d7f2481f7fcaf976a712302d0d2632dacb0f585c5ee09e79190c26_1280.jpg"
+  },
+  {
+    "name": "Florist kalanchoe",
+    "scientifical_name": "Kalanchoe blossfeldiana",
+    "type": "Cacti_Succulents",
+    "light": "Partial Sun",
+    "water": "Low",
+    "difficulty": "Medium",
+    "img_url": "https://pixabay.com/get/ge1ac2010684556e9afe7c9642f9689a051fbd49a9a8dee126ad089406758cf5a8ed532389afc2d66946f1732a26962e53ee1d3c675df7bc8556dfdd794cc8b2a_1280.jpg"
+  },
+  {
+    "name": "Thanksgiving cactus",
+    "scientifical_name": "Schlumbergera truncata",
+    "type": "Cacti_Succulents",
+    "light": "Partial Sun",
+    "water": "Low",
+    "difficulty": "Medium",
+    "img_url": "https://pixabay.com/get/g6a49ab29c8331add280966f059a3bd2c019bc6fc4a1c825583dc9314163d7d3437e3a6972ba1da61971f039ec7083eaf_1280.jpg"
+  },
+  {
+    "name": "Ghost plant",
+    "scientifical_name": "Graptopetalium paraguayense",
+    "type": "Cacti_Succulents",
+    "light": "Partial Sun",
+    "water": "Low",
+    "difficulty": "Medium",
+    "img_url": "https://pixabay.com/get/g18f1c3d5d4b1925e4fd3cf229a1402245f71b19aa1512f6abdade2ee5c357fbe98baf4a7e35ed5006363d77833e8575fd857d98ba448cffe218757455b29d4af_1280.jpg"
+  },
+  {
+    "name": "Mother of thousands",
+    "scientifical_name": "Kalanchoe daigremontiana",
+    "type": "Cacti_Succulents",
+    "light": "Full Sun",
+    "water": "Low",
+    "difficulty": "Medium",
+    "img_url": "https://media.istockphoto.com/id/1482126394/photo/kalanchoe-daigremontiana-mother-of-thousands-alligator-plant-is-a-succulent-plant-native-to.jpg?s=2048x2048&w=is&k=20&c=tl7fFwU7U-GtQDPdbUb_UNLxjEjBxVef9NG7Y7_cAmM="
+  },
+  {
+    "name": "Tree aeonium",
+    "scientifical_name": "Aeonium arboreum",
+    "type": "Cacti_Succulents",
+    "light": "Partial Sun",
+    "water": "Low",
+    "difficulty": "Medium",
+    "img_url": "https://pixabay.com/get/g16d164322ca686ce8c6a6e3f988b9d73ecfc3d066c0e30580f7f69c4be944a30a8632fb13b95662f236f789876bd91b8a460bd5d59b7369a5bfdfc1b206f898d_1280.jpg"
+  },
+  {
+    "name": "Elephant bush",
+    "scientifical_name": "",
+    "type": "Cacti_Succulents",
+    "light": "Partial Sun",
+    "water": "Low",
+    "difficulty": "Medium",
+    "img_url": "https://media.istockphoto.com/id/1761252572/de/foto/aeonium-baum-aeonium-arboreum-kanarische-inseln-fuerteventura-spanien.jpg?s=2048x2048&w=is&k=20&c=49JmWUvC5k8bcg_KgpTFcjC4VfDqbsISFi6KZmURPBo="
+  }
+]
+
