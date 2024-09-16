@@ -3,7 +3,7 @@
     "name": "Aloe Vera",
     "scientifical_name": "Aloe barbadensis miller",
     "difficulty": "Easy",
-    "group": "Cacti/Succulents",
+    "type": "Cacti/Succulents",
     "light": "Indirect sunlight",
     "water": "Low",
     "image_url": "https://media.istockphoto.com/id/958732238/photo/closeup-shot-of-tropical-green-leaves-plants.webp?s=2048x2048&w=is&k=20&c=hw8NoyERWpMBXYuM2NDSx5nyqFQ9ueaLPyb7wLBWT4U="
@@ -12,7 +12,7 @@
     "name": "Monstera",
     "scientifical_name": "Monstera deliciosa",
     "difficulty": "Medium",
-    "group": "Tropical Plants",
+    "type": "Tropical Plants",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1448106563/photo/houseplant-monstera.webp?s=2048x2048&w=is&k=20&c=-NXsL3tV6Y7Y-_GvknDim6lpTrQiJTY6-1p2irWpsb4="
@@ -21,7 +21,7 @@
     "name": "Devil's Ivy (Pothos)",
     "scientifical_name": "Epipremnum aureum",
     "difficulty": "Easy",
-    "group": "Climbing Plants",
+    "type": "Climbing Plants",
     "light": "Partial shade",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1904601676/photo/epipremnum-aureum-is-a-species-of-flowering-plant-in-the-arum-family-aracear-the-plant-has-a.jpg?s=2048x2048&w=is&k=20&c=cR7oiMWufT7q5deLK-UMFC9TBqi3uhkFot32T_aFIuc="
@@ -30,7 +30,7 @@
     "name": "Snake Plant",
     "scientifical_name": "Sansevieria trifasciata",
     "difficulty": "Easy",
-    "group": "Cacti/Succulents",
+    "type": "Cacti/Succulents",
     "light": "Indirect sunlight",
     "water": "Low",
     "image_url": "https://media.istockphoto.com/id/1336498787/photo/sansevieria-plant-in-a-modern-pot-on-a-white-table-against-a-beige-wall-home-plant.webp?s=2048x2048&w=is&k=20&c=eySEkxs3_H6SIAVVw51QGR6xjocfQxtxerUjqzbKKT0="
@@ -39,7 +39,7 @@
     "name": "Peace Lily",
     "scientifical_name": "Spathiphyllum wallisii",
     "difficulty": "Easy",
-    "group": "Flowering Plants",
+    "type": "Flowering Plants",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/809334612/photo/spatialism.webp?s=2048x2048&w=is&k=20&c=wSpxfxIBVWmTUjWcUJYj_XHWMO4EmYDMiegWAR1BEZE="
@@ -48,7 +48,7 @@
     "name": "Rubber Plant",
     "scientifical_name": "Ficus elastica",
     "difficulty": "Medium",
-    "group": "Trees/Palms",
+    "type": "Trees/Palms",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1400388562/photo/a-rubber-tree-houseplant-on-black-background.webp?s=2048x2048&w=is&k=20&c=joBeYF0_kQ0y_muLQtMUVgBPUtgRt7vVfwickAmzHS8="
@@ -57,7 +57,7 @@
     "name": "Dragon Tree",
     "scientifical_name": "Dracaena marginata",
     "difficulty": "Easy",
-    "group": "Trees/Palms",
+    "type": "Trees/Palms",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/578805324/photo/dracaena-leaves-with-white-background.webp?s=2048x2048&w=is&k=20&c=u4Br9X-3Ez6E6G0ZKZ6QqhpVg2j0yNhuHp-UsEAWsfw="
@@ -66,7 +66,7 @@
     "name": "Philodendron",
     "scientifical_name": "Philodendron hederaceum",
     "difficulty": "Easy",
-    "group": "Climbing Plants",
+    "type": "Climbing Plants",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/2160150163/photo/philodendron-hederaceum-brasil.webp?s=2048x2048&w=is&k=20&c=AbNuGZvgGb4_Cw-3Xbotc4_CCbm47TnTy0DjMFWMttc="
@@ -75,7 +75,7 @@
     "name": "Mother-in-Law's Tongue",
     "scientifical_name": "Sansevieria cylindrica",
     "difficulty": "Easy",
-    "group": "Cacti/Succulents",
+    "type": "Cacti/Succulents",
     "light": "Indirect sunlight",
     "water": "Low",
     "image_url": "https://media.istockphoto.com/id/1280373417/photo/green-sansevieria-cylindrica-in-pot.jpg?s=612x612&w=0&k=20&c=S-zHjm3zHIRjyYbP7296gr16nRC_cvZrWLMBi4nh0wg="
@@ -84,7 +84,7 @@
     "name": "Lucky Bamboo",
     "scientifical_name": "Dracaena sanderiana",
     "difficulty": "Easy",
-    "group": "Tropical Plants",
+    "type": "Tropical Plants",
     "light": "Partial shade",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1493061698/photo/lucky-bamboo-plant-for-sale.jpg?s=612x612&w=0&k=20&c=_cG7X8cqihM1Cp8OCygxaOxuqLQcGrkpiH8Nt5bCbx4="
@@ -93,7 +93,7 @@
     "name": "Calathea",
     "scientifical_name": "Calathea orbifolia",
     "difficulty": "Difficult",
-    "group": "Tropical Plants",
+    "type": "Tropical Plants",
     "light": "Indirect sunlight",
     "water": "High",
     "image_url": "https://media.istockphoto.com/id/1213639871/photo/calathea-orbifolia-close-up.jpg?s=612x612&w=0&k=20&c=Eu3Z2XJe73LAssfwKtcr6OAfUxie3JRhB1TqbwhnYhM="
@@ -102,7 +102,7 @@
     "name": "Weeping Fig",
     "scientifical_name": "Ficus benjamina",
     "difficulty": "Medium",
-    "group": "Trees/Palms",
+    "type": "Trees/Palms",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1312924040/photo/ficus-benjamin-in-a-straw-basket.jpg?s=612x612&w=0&k=20&c=FwNYH8l51WnA4gXZuQBwR_tFQ1MzkErLzCDoxOF8C08="
@@ -111,7 +111,7 @@
     "name": "ZZ Plant",
     "scientifical_name": "Zamioculcas zamiifolia",
     "difficulty": "Easy",
-    "group": "Cacti/Succulents",
+    "type": "Cacti/Succulents",
     "light": "Indirect sunlight",
     "water": "Low",
     "image_url": "https://media.istockphoto.com/id/1796534917/photo/zanzibar-gem-plant-in-pot-over-white-brick-wall.jpg?s=612x612&w=0&k=20&c=8Svk0yxA6n5FM1Kpzip4W915D_TbobV6NsypCiAKjOA="
@@ -120,7 +120,7 @@
     "name": "Air Plant",
     "scientifical_name": "Tillandsia spp.",
     "difficulty": "Easy",
-    "group": "Others",
+    "type": "Others",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1311215591/photo/tilandsia-xerographica-airplant-in-glass-terrarium-on-wooden-table.jpg?s=612x612&w=0&k=20&c=x0VUTF9Fp5OA2YmWrtkKv0i8KYrUrdj5qOIPALbEEJ4="
@@ -129,7 +129,7 @@
     "name": "Umbrella Tree",
     "scientifical_name": "Schefflera arboricola",
     "difficulty": "Medium",
-    "group": "Trees/Palms",
+    "type": "Trees/Palms",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/2154469760/photo/schefflera-arboricola.jpg?s=612x612&w=0&k=20&c=Dps4ZhZYsKhBE9gBpP2yIHpgTgoittf8X7m711ts-k0="
@@ -138,7 +138,7 @@
     "name": "Cacti",
     "scientifical_name": "Cactaceae",
     "difficulty": "Easy",
-    "group": "Cacti/Succulents",
+    "type": "Cacti/Succulents",
     "light": "Direct sunlight",
     "water": "Low",
     "image_url": "https://media.istockphoto.com/id/1923414067/photo/miniature-succulent-plants.jpg?s=612x612&w=0&k=20&c=42z3N7_m82Am6iX_0YWF8euKFrd1-sMmETKt_1BxJlg="
@@ -147,7 +147,7 @@
     "name": "Chinese Money Plant",
     "scientifical_name": "Pilea peperomioides",
     "difficulty": "Easy",
-    "group": "Cacti/Succulents",
+    "type": "Cacti/Succulents",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/2149047627/photo/pilea-peperomioides-in-terracotta-pot-known-as-chinese-money-plant-on-windowsill-at-home.jpg?s=612x612&w=0&k=20&c=gHdLD75ZB2uZ8vRpbnpbc2c4rYNTpC4sEgHj0z5m6W8="
@@ -156,7 +156,7 @@
     "name": "Boston Fern",
     "scientifical_name": "Nephrolepis exaltata",
     "difficulty": "Medium",
-    "group": "Tropical Plants",
+    "type": "Tropical Plants",
     "light": "Indirect sunlight",
     "water": "High",
     "image_url": "https://media.istockphoto.com/id/2166042817/photo/boston-fern-growing-in-pot-beautiful-fresh-green-fern-basket-hanging-on-white-wooden-wall.jpg?s=612x612&w=0&k=20&c=aAzsFFHBAY_pDugdKHc1Zh3bRIFIoUZm4ky6yusowNo="
@@ -165,7 +165,7 @@
     "name": "Bonsai",
     "scientifical_name": "Ficus retusa",
     "difficulty": "Difficult",
-    "group": "Trees/Palms",
+    "type": "Trees/Palms",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/599497284/photo/bonsai-ginseng-or-ficus-retusa.jpg?s=612x612&w=0&k=20&c=buZ5oq6dne_jyEdA7FIi7qGnH5oPlUHwmS44A9Gj6Ko="
@@ -174,7 +174,7 @@
     "name": "Gloxinia",
     "scientifical_name": "Sinningia speciosa",
     "difficulty": "Medium",
-    "group": "Flowering Plants",
+    "type": "Flowering Plants",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1277658819/photo/closeup-of-gloxinia-sinningia-speciosa-flowers-in-the-foreground-and-dark-green-leaves-plants.jpg?s=612x612&w=0&k=20&c=czKLZi_EAnQOPP4MOY8HO01gEK_z_c_Mqcv1-sSBVYo="
@@ -183,7 +183,7 @@
     "name": "Anthurium",
     "scientifical_name": "Anthurium andraeanum",
     "difficulty": "Medium",
-    "group": "Flowering Plants",
+    "type": "Flowering Plants",
     "light": "Indirect sunlight",
     "water": "High",
     "image_url": "https://media.istockphoto.com/id/1359117982/photo/house-plant-anthurium-in-white-flowerpot-isolated-on-white-table-and-gray-background.jpg?s=612x612&w=0&k=20&c=SC5HJ_kJFe0BrBPVAica6365McSLSXk5ehEvWYAWaLU="
@@ -192,7 +192,7 @@
     "name": "Zebra Plant",
     "scientifical_name": "Aphelandra squarrosa",
     "difficulty": "Difficult",
-    "group": "Tropical Plants",
+    "type": "Tropical Plants",
     "light": "Indirect sunlight",
     "water": "High",
     "image_url": "https://media.istockphoto.com/id/1786283058/photo/squarrosa-aphelandra-in-small-brown-flower-pots-on-the-shelf-of-the-showcase-in-greenhouses.jpg?s=612x612&w=0&k=20&c=MgIISx65sSv1z04uGGcmtxXkTLVgV9OXb7AFMaLMsPk="
@@ -201,7 +201,7 @@
     "name": "Club Moss",
     "scientifical_name": "Selaginella",
     "difficulty": "Difficult",
-    "group": "Others",
+    "type": "Others",
     "light": "Indirect sunlight",
     "water": "High",
     "image_url": "https://media.istockphoto.com/id/2166128251/photo/selaginella-wallichii-hook-and-grev-spring-or-selaginellaceae-spike-moss-or-fern.jpg?s=612x612&w=0&k=20&c=5LOzC9F83AGYFhwZEZO5VZA5egVbbPTpWyWBKfa4nXU="
@@ -210,7 +210,7 @@
     "name": "Ponytail Palm",
     "scientifical_name": "Beaucarnea recurvata",
     "difficulty": "Easy",
-    "group": "Cacti/Succulents",
+    "type": "Cacti/Succulents",
     "light": "Direct sunlight",
     "water": "Low",
     "image_url": "https://media.istockphoto.com/id/841292392/photo/green-houseplant-in-white-vase.jpg?s=612x612&w=0&k=20&c=RQgHQCh3LL_-BlhxK6SQfb19lWIeZ6q7otw2aEz1xuU="
@@ -219,7 +219,7 @@
     "name": "Christmas Cactus",
     "scientifical_name": "Schlumbergera",
     "difficulty": "Easy",
-    "group": "Cacti/Succulents",
+    "type": "Cacti/Succulents",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/511790642/photo/christmas-cactus.jpg?s=612x612&w=0&k=20&c=f-aX77hO6xwE0qVn1JgN80lc9pPRdvDlHy1oGSa1PfA="
@@ -228,7 +228,7 @@
     "name": "Yucca",
     "scientifical_name": "Yucca elephantipes",
     "difficulty": "Easy",
-    "group": "Trees/Palms",
+    "type": "Trees/Palms",
     "light": "Direct sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1322943616/photo/stick-yucca-or-spinelsss-yucca.jpg?s=612x612&w=0&k=20&c=sb6L4OiFzo_v6r1YpwGx1KMeh9DGUxzKAxDaxoqc_co="
@@ -237,7 +237,7 @@
     "name": "Chinese Evergreen",
     "scientifical_name": "Aglaonema commutatum",
     "difficulty": "Medium",
-    "group": "Tropical Plants",
+    "type": "Tropical Plants",
     "light": "Low light",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1308559798/photo/tropical-aglaonema-stripes-houseplant-with-long-leaves-with-silver-stripe-pattern.jpg?s=612x612&w=0&k=20&c=aOomwZKb-ogsAiYnJS3uHd9LHt1slqXi6puVVO-ecWA="
@@ -246,7 +246,7 @@
     "name": "Croton",
     "scientifical_name": "Codiaeum variegatum",
     "difficulty": "Difficult",
-    "group": "Tropical Plants",
+    "type": "Tropical Plants",
     "light": "Indirect sunlight",
     "water": "High",
     "image_url": "https://media.istockphoto.com/id/170035017/photo/petra-croton.jpg?s=612x612&w=0&k=20&c=9-SruPy-vajHQc4ERo-rMWSYiHkGzC_KO9sjUZOojUg="
@@ -255,7 +255,7 @@
     "name": "Spider Plant",
     "scientifical_name": "Chlorophytum comosum",
     "difficulty": "Easy",
-    "group": "Tropical Plants",
+    "type": "Tropical Plants",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1312441786/de/foto/chlorophytum-comosum-spinne-pflanze.jpg?s=612x612&w=0&k=20&c=hZWYGgtK_TjL1hROlkykjXUzIfnS68ORs5N6QG9usGU="
@@ -264,7 +264,7 @@
     "name": "Jade Plant",
     "scientifical_name": "Crassula ovata",
     "difficulty": "Easy",
-    "group": "Cacti/Succulents",
+    "type": "Cacti/Succulents",
     "light": "Direct sunlight",
     "water": "Low",
     "image_url": "https://media.istockphoto.com/id/1132486042/de/foto/sukkulente-zimmerpflanze-crassula-in-einem-topf-auf-wei%C3%9Fem-hintergrund.jpg?s=612x612&w=0&k=20&c=mGFuI_SKPcFz9WU3056W1Wwa9qJy5Ka12PKMpcaV0PQ="
@@ -273,7 +273,7 @@
     "name": "English Ivy",
     "scientifical_name": "Hedera helix",
     "difficulty": "Medium",
-    "group": "Climbing Plants",
+    "type": "Climbing Plants",
     "light": "Partial shade",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/644998798/de/foto/ivy-hedera-helix.jpg?s=612x612&w=0&k=20&c=buoOYhWG4rvwUidnDV4wYwAg5jGKU-AThTCnCl-dShk="
@@ -282,7 +282,7 @@
     "name": "Fiddle Leaf Fig",
     "scientifical_name": "Ficus lyrata",
     "difficulty": "Medium",
-    "group": "Trees/Palms",
+    "type": "Trees/Palms",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1299094421/de/foto/ficus-lirata-im-wickertopf-auf-holztisch.jpg?s=612x612&w=0&k=20&c=YbPoauivP3pGdcTPS1JBQz8hZ4oyGfu9gFrK0fSlNsQ="
@@ -291,7 +291,7 @@
     "name": "Prayer Plant",
     "scientifical_name": "Maranta leuconeura",
     "difficulty": "Medium",
-    "group": "Tropical Plants",
+    "type": "Tropical Plants",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1494778739/de/foto/tropische-zimmerpflanze-maranta-leuconeura-fascinator.jpg?s=612x612&w=0&k=20&c=a5M96ayEHLdMHVFsnnOahHKNXAdYVjlRdEX0byVMIZA="
@@ -300,7 +300,7 @@
     "name": "Bird's Nest Fern",
     "scientifical_name": "Asplenium nidus",
     "difficulty": "Medium",
-    "group": "Tropical Plants",
+    "type": "Tropical Plants",
     "light": "Indirect sunlight",
     "water": "High",
     "image_url": "https://media.istockphoto.com/id/892042450/de/foto/zimmerpflanze-asplenium-nidus-in-blumentopf.jpg?s=612x612&w=0&k=20&c=LZ0EavYPhzdTXdq5vuLurTORiJo7A1S2XbF_BgZROtA="
@@ -309,7 +309,7 @@
     "name": "Cast Iron Plant",
     "scientifical_name": "Aspidistra elatior",
     "difficulty": "Easy",
-    "group": "Tropical Plants",
+    "type": "Tropical Plants",
     "light": "Low light",
     "water": "Low",
     "image_url": "https://media.istockphoto.com/id/1410933894/de/foto/aspidistra-elatior-baran-haran-japanische-pflanze.jpg?s=612x612&w=0&k=20&c=-Z5oP7idCsu-2UIFr6dkm4QJ0Z2PhZfVG1JV6UEyCys="
@@ -318,7 +318,7 @@
     "name": "Dumb Cane",
     "scientifical_name": "Dieffenbachia",
     "difficulty": "Medium",
-    "group": "Tropical Plants",
+    "type": "Tropical Plants",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1138553566/de/foto/anlagenkonzept-neu-auflegen-dieffenbachia-plant-topf-mit-neuem-boden-in-neuen-modernen-topf.jpg?s=612x612&w=0&k=20&c=OtJsHa9z4scPCNTk8GHRc2av0e0UBfj9wI3SChhZwvw="
@@ -327,7 +327,7 @@
     "name": "Purple Shamrock",
     "scientifical_name": "Oxalis triangularis",
     "difficulty": "Medium",
-    "group": "Flowering Plants",
+    "type": "Flowering Plants",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1256158971/de/foto/zimmerpflanze-oxalis-mit-zarten-kleinen-rosa-bl%C3%BCten.jpg?s=612x612&w=0&k=20&c=cjRW6CuPJdop_QOxsb-ZtrupD6c6FN4FAgRNGyvzs2s="
@@ -336,7 +336,7 @@
     "name": "Swiss Cheese Plant",
     "scientifical_name": "Monstera adansonii",
     "difficulty": "Medium",
-    "group": "Tropical Plants",
+    "type": "Tropical Plants",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1350903982/de/foto/monstera-monkey-mask-oder-obliqua-oder-adansonii-steht-auf-einem-wei%C3%9Fen-sockel-auf-hellem.jpg?s=612x612&w=0&k=20&c=Ez2bX6EAq5s2hNJmKszTpfNzSFTwCzW9NaAaqSVot8c="
@@ -345,7 +345,7 @@
     "name": "Baby Rubber Plant",
     "scientifical_name": "Peperomia obtusifolia",
     "difficulty": "Easy",
-    "group": "Cacti/Succulents",
+    "type": "Cacti/Succulents",
     "light": "Indirect sunlight",
     "water": "Low",
     "image_url": "https://media.istockphoto.com/id/1498326976/de/foto/peperomia-obtusifolia-mit-der-f%C3%A4higkeit-die-luft-zu-reinigen-luftreinigungsanlage.jpg?s=612x612&w=0&k=20&c=VeH1Gpz9FPI-P4zXd-L9kkP3un6aI222jXxn17w1cMQ="
@@ -354,7 +354,7 @@
     "name": "Burro's Tail",
     "scientifical_name": "Sedum morganianum",
     "difficulty": "Easy",
-    "group": "Cacti/Succulents",
+    "type": "Cacti/Succulents",
     "light": "Direct sunlight",
     "water": "Low",
     "image_url": "https://media.istockphoto.com/id/1347675374/de/foto/sedum-morganianum-burrito-in-london-england.jpg?s=612x612&w=0&k=20&c=_rOwoMkLtFWf1vzmcD0kitfGBF2dkpu9XO78rK_lCS0="
@@ -363,7 +363,7 @@
     "name": "Moth Orchid",
     "scientifical_name": "Phalaenopsis",
     "difficulty": "Medium",
-    "group": "Flowering Plants",
+    "type": "Flowering Plants",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1711400215/de/foto/eine-nahaufnahme-einer-rosa-gesprenkelten-phalaenopsis-orchideenpflanze.jpg?s=612x612&w=0&k=20&c=D2NG2drfwmy8qR8THRwlShG11yjsco-NIRnw_HxWeEs="
@@ -372,7 +372,7 @@
     "name": "Chinese Fan Palm",
     "scientifical_name": "Livistona chinensis",
     "difficulty": "Medium",
-    "group": "Trees/Palms",
+    "type": "Trees/Palms",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1414162571/de/foto/livistona-saribus-auch-bekannt-als-taraw-palme-ist-eine-palmenart-die-im-tropischen.jpg?s=612x612&w=0&k=20&c=hz4eS5J6Ppo_-PY0j2gs02cGqlUC18f4_CbPnZnDMZk="
@@ -381,7 +381,7 @@
     "name": "Umbrella Plant",
     "scientifical_name": "Schefflera arboricola",
     "difficulty": "Easy",
-    "group": "Tropical Plants",
+    "type": "Tropical Plants",
     "light": "Indirect sunlight",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/2156347186/de/foto/schefflera-arboricola.jpg?s=612x612&w=0&k=20&c=pZtaEt33uOhPkdtsM0IBBz_uI4mQxID7JpJwbc_t_fE="
@@ -390,7 +390,7 @@
     "name": "Basil",
     "scientifical_name": "Ocimum basilicum",
     "difficulty": "Easy",
-    "group": "Herbs",
+    "type": "Herbs",
     "light": "Direct Light",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1394736042/photo/fresh-basil.jpg?s=2048x2048&w=is&k=20&c=NEMdR2HTG_OY5drWCMRHWsbS0wfh9mFQnAy_uJP3O0I="
@@ -399,7 +399,7 @@
     "name": "Mint",
     "scientifical_name": "Mentha",
     "difficulty": "Easy",
-    "group": "Herbs",
+    "type": "Herbs",
     "light": "Partial Shade",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1138221724/photo/close-up-of-lemon-balm-herb.jpg?s=2048x2048&w=is&k=20&c=VG_IoN4m8w4gQxyBNMqm2Jj8Vz-s3IS-j5tXpZqJffU="
@@ -408,7 +408,7 @@
     "name": "Thyme",
     "scientifical_name": "Thymus vulgaris",
     "difficulty": "Easy",
-    "group": "Herbs",
+    "type": "Herbs",
     "light": "Direct Light",
     "water": "Low",
     "image_url": "https://media.istockphoto.com/id/172221928/photo/thyme.jpg?s=2048x2048&w=is&k=20&c=-7IuHPEBNlFtlJB3JmIrAp5EkfUfLmnioIoHA7ivsQo="
@@ -417,7 +417,7 @@
     "name": "Rosemary",
     "scientifical_name": "Rosmarinus officinalis",
     "difficulty": "Medium",
-    "group": "Herbs",
+    "type": "Herbs",
     "light": "Direct Light",
     "water": "Low",
     "image_url": "https://media.istockphoto.com/id/121306579/photo/close-up-image-of-rosemary-growing-in-a-garden.jpg?s=2048x2048&w=is&k=20&c=aMLhi_rALwufFBo9mRAQCsb9E8VmkewA5BUtNO1CoYs="
@@ -426,7 +426,7 @@
     "name": "Sage",
     "scientifical_name": "Salvia officinalis",
     "difficulty": "Easy",
-    "group": "Herbs",
+    "type": "Herbs",
     "light": "Direct Light",
     "water": "Low",
     "image_url": "https://media.istockphoto.com/id/880551512/photo/fresh-sage-in-the-herb-garden.jpg?s=2048x2048&w=is&k=20&c=pN-wGWPhO2Uk48vjGICKydHPgcgPZ-jA_mrcIemNpFM="
@@ -435,7 +435,7 @@
     "name": "Cilantro",
     "scientifical_name": "Coriandrum sativum",
     "difficulty": "Medium",
-    "group": "Herbs",
+    "type": "Herbs",
     "light": "Indirect Light",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1405668954/photo/top-view-of-fresh-growing-green-coriander-leaves.jpg?s=2048x2048&w=is&k=20&c=CKziwP1Pyx6cSCXj5k7Qp0l_E7KUjeuWa0nR4MXC140="
@@ -444,7 +444,7 @@
     "name": "Oregano",
     "scientifical_name": "Origanum vulgare",
     "difficulty": "Easy",
-    "group": "Herbs",
+    "type": "Herbs",
     "light": "Direct Light",
     "water": "Low",
     "image_url": "https://media.istockphoto.com/id/171288735/photo/close-up-of-herbs.jpg?s=2048x2048&w=is&k=20&c=PZFB_przBAmXwRnep3vAUh0aDe4zc2KL1t52c6O0Mew="
@@ -453,7 +453,7 @@
     "name": "Chives",
     "scientifical_name": "Allium schoenoprasum",
     "difficulty": "Easy",
-    "group": "Herbs",
+    "type": "Herbs",
     "light": "Partial Shade",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/2148677358/photo/flowering-chive-plants-allium-schoenoprasum.jpg?s=2048x2048&w=is&k=20&c=ckk07BEjgEjqrFjXSv_AEN91BN89E-qiXX_OA_1FU10="
@@ -462,7 +462,7 @@
     "name": "Dill",
     "scientifical_name": "Anethum graveolens",
     "difficulty": "Easy",
-    "group": "Herbs",
+    "type": "Herbs",
     "light": "Indirect Light",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1499520529/photo/dill-in-a-pot-outdoor.jpg?s=2048x2048&w=is&k=20&c=5xaqoCchw84ESTHoZsKIPqZL49_9RLmtEbYGecOMH-o="
@@ -471,7 +471,7 @@
     "name": "Parsley",
     "scientifical_name": "Petroselinum crispum",
     "difficulty": "Medium",
-    "group": "Herbs",
+    "type": "Herbs",
     "light": "Partial Shade",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/92002655/photo/parsley.jpg?s=2048x2048&w=is&k=20&c=VCwrzwWr-t4K2Ss8zpB8k-BsKRVft-mnA99ci81QQoM="
