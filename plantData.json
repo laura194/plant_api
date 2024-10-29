@@ -9,6 +9,15 @@
     "image_url": "https://media.istockphoto.com/id/958732238/photo/closeup-shot-of-tropical-green-leaves-plants.jpg?s=2048x2048&w=is&k=20&c=hw8NoyERWpMBXYuM2NDSx5nyqFQ9ueaLPyb7wLBWT4U="
   },
   {
+    "name": "Pink Dalmatian Aglaonema",
+    "scientifical_name": "Aglaonema 'Crimson Love'",
+    "difficulty": "Easy",
+    "type": "Tropical Plants",
+    "light": "Partial shade",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1298223819/photo/algonema.jpg?s=2048x2048&w=is&k=20&c=Dujed4neTUTrVavEnbhOK6BSoUwmjF11lcyuvEiuq8Y="
+  },
+  {
     "name": "Monstera",
     "scientifical_name": "Monstera deliciosa",
     "difficulty": "Medium",
