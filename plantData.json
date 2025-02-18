@@ -565,6 +565,15 @@
     "light": "Indirect Light",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1497855475/photo/alocasia-lauterbachiana-or-silver-sword-plant-in-zurich-in-switzerland.jpg?s=2048x2048&w=is&k=20&c=Lu55Y_q1zcSEGeNXz7CPJwAVX-Oh7oWvdmwgFAprIKc="
+  }, 
+    {
+    "name": "Bird of Paradise",
+    "scientifical_name": "Strelitzia reginae",
+    "difficulty": "Medium",
+    "type": "Tropical Plants",
+    "light": "Direct Light",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1302804609/de/foto/strelitzia-reginae-kranichbl%C3%BCte-paradiesvogel.jpg?s=2048x2048&w=is&k=20&c=-89HXrpuzClzJBKQWfO2bIX8O48oNWUj1nvbG0rmLNU="
   }
 
 ]
