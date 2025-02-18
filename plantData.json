@@ -574,7 +574,54 @@
     "light": "Direct Light",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1302804609/de/foto/strelitzia-reginae-kranichbl%C3%BCte-paradiesvogel.jpg?s=2048x2048&w=is&k=20&c=-89HXrpuzClzJBKQWfO2bIX8O48oNWUj1nvbG0rmLNU="
-  }
+  }, 
+  {
+    "name": "Areca Palm (Butterfly Palm)",
+    "scientifical_name": "Dypsis lutescens",
+    "difficulty": "Medium",
+    "type": "Trees/Palms",
+    "light": "Indirect Light",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/988625944/de/foto/helles-wohnzimmer-mit-zimmerpflanze-auf-dem-boden-in-einem-weidenkorb.jpg?s=612x612&w=is&k=20&c=mA9iSGj1NVm4IzFA131KIOjjctKT_CdMh558NQgYgGk="
+  },
+  {
+    "name": "Arrowhead Plant",
+    "scientifical_name": "Syngonium podophyllum",
+    "difficulty": "Easy",
+    "type": "Climbing Plants",
+    "light": "Partial Shade",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/2183233869/de/foto/herzblatt-philodendron.jpg?s=1024x1024&w=is&k=20&c=ZhK56u8QkC0DErojCaK-BYikAOuLffsxZHQmclW5Ubk="
+  },
+   {
+    "name": "Silver Pothos (Satin Pothos)",
+    "scientifical_name": "Scindapsus pictus",
+    "difficulty": "Easy",
+    "type": "Climbing Plants",
+    "light": "Indirect Light",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1804085812/de/foto/scindapsus-pictus.jpg?s=612x612&w=is&k=20&c=zrS2WBffi1LB-Iq5VWdJJ5l0PRrbxU_C5RJ6q6OjbhQ="
+  },
+   {
+    "name": "Parlor Palm",
+    "scientifical_name": "Chamaedorea elegans",
+    "difficulty": "Easy",
+    "type": "Trees/Palms",
+    "light": "Partial Shade",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/1294242955/de/foto/topf-chamaedorea-elegans-salonpalme-mit-sonnenlicht-tropische-pflanze-auf-dem-boden.jpg?s=1024x1024&w=is&k=20&c=TGmgFiQ4gqaWVLzeKSD8653wPjeCs2L6yt_2Pdx86HI="
+  },
+  {
+    "name": "Watermelon Peperomia",
+    "scientifical_name": "Peperomia argyreia",
+    "difficulty": "Easy",
+    "type": "Climbing Plants",
+    "light": "Indirect Light",
+    "water": "Medium",
+    "image_url": "https://media.istockphoto.com/id/2083730793/de/foto/peperomia-argyreia-oder-peperomia-es-ist-eine-gartendekorationspflanze.jpg?s=1024x1024&w=is&k=20&c=myyv7wZjO4-mohNrOtSFawrd3kpmvFcCxTwGgWZGLFk="
+  },
+  
+  
 
 ]
 
