@@ -566,7 +566,7 @@
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/1497855475/photo/alocasia-lauterbachiana-or-silver-sword-plant-in-zurich-in-switzerland.jpg?s=2048x2048&w=is&k=20&c=Lu55Y_q1zcSEGeNXz7CPJwAVX-Oh7oWvdmwgFAprIKc="
   }, 
-    {
+  {
     "name": "Bird of Paradise",
     "scientifical_name": "Strelitzia reginae",
     "difficulty": "Medium",
@@ -619,9 +619,6 @@
     "light": "Indirect Light",
     "water": "Medium",
     "image_url": "https://media.istockphoto.com/id/2083730793/de/foto/peperomia-argyreia-oder-peperomia-es-ist-eine-gartendekorationspflanze.jpg?s=1024x1024&w=is&k=20&c=myyv7wZjO4-mohNrOtSFawrd3kpmvFcCxTwGgWZGLFk="
-  },
-  
-  
-
+  }
 ]
 
